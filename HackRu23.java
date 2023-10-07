@@ -62,6 +62,7 @@ System.out.println("You have deposited: " + lastTransAction);
 else if (lastTransAction < 0)
 {
 System.out.println("You have withdrawn: " + lastTransAction);
+System.out.println("hi");
 }
 }
 }
